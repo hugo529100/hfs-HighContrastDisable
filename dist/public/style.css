@@ -1,0 +1,4 @@
+/* 前端页面禁用自动配色 */
+html, body {
+    forced-color-adjust: none !important;
+}
